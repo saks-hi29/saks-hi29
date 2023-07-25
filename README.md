@@ -21,7 +21,7 @@
  
  <img src="https://komarev.com/ghpvc/?username=saks-hi29&style=flat-square&color=blue" alt=""/>
 
-
+<img src=" https://github.com/devicons/devicon/blob/master/icons/canva/canva-original.svg" />
 
 <h2>📈 Sakshi's Github Stats</h2>
 

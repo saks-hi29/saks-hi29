@@ -18,8 +18,8 @@
   <img src="https://github.com/devicons/devicon/blob/master/icons/vscode/canva-original.svg" width=60> 
    <img src="https://github.com/devicons/devicon/blob/master/icons/vscode/html-original.svg" width=60> 
     <img src="https://github.com/devicons/devicon/blob/master/icons/vscode/css-original.svg" width=60> 
-     <img src="https://github.com/devicons/devicon/blob/master/icons/vscode/javascript-original.svg" width=60> 
-
+[     <img src="https://github.com/devicons/devicon/blob/master/icons/vscode/javascript-original.svg" width=60> 
+](https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-original.svg)
 
 
 

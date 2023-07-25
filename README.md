@@ -15,13 +15,7 @@
  <img src="https://github.com/devicons/devicon/blob/master/icons/nodejs/nodejs-original.svg" width=60> 
  <img src="https://github.com/devicons/devicon/blob/master/icons/php/php-original.svg" width=60> 
  <img src="https://github.com/devicons/devicon/blob/master/icons/vscode/vscode-original.svg" width=60> 
-  <img src="https://github.com/devicons/devicon/blob/master/icons/vscode/canva-original.svg" width=60> 
-   <img src="https://github.com/devicons/devicon/blob/master/icons/vscode/html5-original.svg" width=60> 
-    <img src="https://github.com/devicons/devicon/blob/master/icons/vscode/css3-original.svg" width=60> 
- 
- <img src="https://komarev.com/ghpvc/?username=saks-hi29&style=flat-square&color=blue" alt=""/>
-
-<img src=" https://github.com/devicons/devicon/blob/master/icons/canva/canva-original.svg" />
+ <img src="https://github.com/devicons/devicon/blob/master/icons/canva/canva-original.svg"  >
 
 <h2>📈 Sakshi's Github Stats</h2>
 

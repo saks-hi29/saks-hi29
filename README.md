@@ -9,7 +9,7 @@
 - Here is my [Linkedin Profile](https://www.linkedin.com/in/sakshi-choudhary-4781b522a/). Feel free to connect! 👀
 
 <h2>🛠 Tech Stack</h2>
-
+<span>
  <img src="https://github.com/devicons/devicon/blob/master/icons/python/python-plain.svg" width=60> 
  <img src="https://github.com/devicons/devicon/blob/master/icons/c/c-original.svg" width=60> 
  <img src="https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-original.svg" width=60> 
@@ -25,7 +25,7 @@
   <img src="https://github.com/devicons/devicon/blob/master/icons/jupyter/jupyter-original.svg" width=60  >
   <img src="https://github.com/devicons/devicon/blob/master/icons/css3/css3-original.svg" width=60  >
     <img src="https://github.com/devicons/devicon/blob/master/icons/tailwind/tailwind-original.svg" width=60  >
-
+</span>
 
 
 

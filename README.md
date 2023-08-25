@@ -15,7 +15,7 @@
  <img src="https://github.com/devicons/devicon/blob/master/icons/nodejs/nodejs-original.svg" width=60> 
  <img src="https://github.com/devicons/devicon/blob/master/icons/php/php-original.svg" width=60> 
  <img src="https://github.com/devicons/devicon/blob/master/icons/vscode/vscode-original.svg" width=60> 
- <img src="https://github.com/devicons/devicon/blob/master/icons/canva/canva-original.svg"  >
+ <img src="https://github.com/devicons/devicon/blob/master/icons/canva/canva-original.svg width=60"  >
 
 <h2>📈 Sakshi's Github Stats</h2>
 

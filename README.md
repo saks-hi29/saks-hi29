@@ -1,11 +1,12 @@
-<h1>Hey, I'm Sakshi <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px"> </h1>
+<h1>Greetings, I'm Sakshi <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px"> </h1>
 
-<h2>🤓 About Me</h2>
+<h2>🤓 Knock Knock !!</h2>
 
-- I am a tech enthusiast. 🤠
-- I am currently a second year Computer Science Student. 👨‍🎓
-- I have a keen interest in  Programming, Web  Development. 💻
-- I love solving real life problems through technology. 💡
+- I am a technocrat. 🤠
+- I am currently a third year Computer Science Student. 👨‍🎓
+- I have a keen interest in  Web  Development and Android Development. 💻
+- I am learning UI/UX design currently.
+- I love solving real life glitches through machines. 💡
 - Here is my [Linkedin Profile](https://www.linkedin.com/in/sakshi-choudhary-4781b522a/). Feel free to connect! 👀
 
 <h2>🛠 Tech Stack</h2>

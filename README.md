@@ -4,8 +4,11 @@
 
 - I am a technocrat. 🤠
 - I am currently a third year Computer Science Student. 👨‍🎓
-- I have a keen interest in  Web  Development and Android Development. 💻
-- I am learning UI/UX design currently.
+- I have a keen interest in Graphic Designing , Web  Development and Android Development. 💻
+- Coding my way through lectures and labs 💻
+- Aspiring developer, future innovator 🚀 
+- Learning today, leading tomorrow 📚
+- Building a brighter tech future🎯
 - I love solving real life glitches through machines. 💡
 - Here is my [Linkedin Profile](https://www.linkedin.com/in/sakshi-choudhary-4781b522a/). Feel free to connect! 👀
 

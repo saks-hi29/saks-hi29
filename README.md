@@ -1,8 +1,14 @@
+<div id="header" align="center">
+  <img src="https://giphy.com/gifs/pudgypenguins-data-code-coding-2IudUHdI075HL02Pkk" width="100"/>
+</div>
+
+<h1>Greetings, I'm Sakshi <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px"> </h1>
+
 <div align="center">
   <img src="https://media.giphy.com/media/dWesBcTLavkZuG35MI/giphy.gif" width="600" height="300"/>
 </div>
 
-<h1>Greetings, I'm Sakshi <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px"> </h1>
+
 
 <h2>🤓 Knock Knock !!</h2>
 
@@ -43,15 +49,9 @@
 </span>
 
 
-
-<h2>📈 Sakshi's Github Stats</h2>
-
+## &#x1f4c8;My GitHub Stats
 <a href="http://www.github.com/saks-hi29"><img src="https://github-readme-streak-stats.herokuapp.com/?user=saks-hi29&stroke=ffffff&background=171717&ring=0891b2&fire=0891b2&currStreakNum=ffffff&currStreakLabel=0891b2&sideNums=ffffff&sideLabels=ffffff&dates=ffffff&hide_border=true" /></a>
 
-
-
-
-## &#x1f4c8; My GitHub Stats
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=saks-hi29&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
 

@@ -3,8 +3,8 @@
 <h2>🤓 Knock Knock !!</h2>
 
 - I am a technocrat. 🤠
-- I am currently a third year Computer Science Student. 👨‍🎓
-- I have a keen interest in Graphic Designing , Web  Development and Android Development. 💻
+- I am a full stack developer. 👨‍🎓
+- I have a keen interest in Graphic Designing , Web  Development and Android Development as well. 💻
 - Coding my way through lectures and labs 💻
 - Aspiring developer, future innovator 🚀 
 - Learning today, leading tomorrow 📚

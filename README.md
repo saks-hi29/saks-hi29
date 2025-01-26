@@ -30,8 +30,9 @@
   <img src="https://github.com/devicons/devicon/blob/master/icons/css3/css3-original.svg" width=60  >
     <img src="https://github.com/devicons/devicon/blob/master/icons/tailwind/tailwind-original.svg" width=60  >
      <img src="https://github.com/devicons/devicon/blob/master/icons/spring/spring-original.svg" width=60  >
-    <img src=" https://github.com/devicons/devicon/blob/master/icons/slack/slack-original.svg" width=60>
+    <img src="https://github.com/devicons/devicon/blob/master/icons/slack/slack-original.svg" width=60>
         <img src="https://github.com/devicons/devicon/blob/master/icons/postman/postman-original.svg" width=60  >
+        <img src="https://github.com/devicons/devicon/blob/master/icons/jenkins/jenkins-original.svg" width=60>
 
     
 

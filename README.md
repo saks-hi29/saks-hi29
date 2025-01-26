@@ -1,8 +1,6 @@
-<div id="header" align="center">
-  <img src="https://giphy.com/gifs/pudgypenguins-data-code-coding-2IudUHdI075HL02Pkk" width="100"/>
-</div>
 
-<h1>Greetings, I'm Sakshi <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px"> </h1>
+<h2>🤓 Knock Knock !!</h2>
+
 
 <div align="center">
   <img src="https://media.giphy.com/media/dWesBcTLavkZuG35MI/giphy.gif" width="600" height="300"/>
@@ -10,8 +8,8 @@
 
 
 
-<h2>🤓 Knock Knock !!</h2>
 
+<h1>Greetings, I'm Sakshi <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px"> </h1>
 - I am a technocrat. 🤠
 - I am a full stack developer. 👨‍🎓
 - I have a keen interest in Graphic Designing , Web  Development and Android Development as well. 💻

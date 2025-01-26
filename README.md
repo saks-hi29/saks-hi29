@@ -46,6 +46,10 @@
 
 <a href="http://www.github.com/saks-hi29"><img src="https://activity-graph.herokuapp.com/graph?username=saks-hi29&bg_color=171717&color=ffffff&line=0891b2&point=ffffff&area_color=171717&area=true&hide_border=true&custom_title=GitHub%20Commits%20Graph" alt="GitHub Commits Graph" /></a>
 
+<a href="https://github-readme-stats.vercel.app/api/top-langs/?username=<saks-hi29>&hide=java,html,css&theme=radical"></a>
+
+<a href="https://github-readme-stats.vercel.app/api?username=<saks-hi29>&theme=radical"></a>
+
 
 
 
